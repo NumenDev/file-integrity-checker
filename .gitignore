@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local integrity baseline (never commit hashes / secret key)
+.integrity-check/
+*.key

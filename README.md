@@ -101,3 +101,5 @@ corrupted database, and `--pattern` filtering.
 - Legitimate logs grow constantly; `check` will flag that as a change. The
   expected flow is to run `check` to audit and `update` to accept
   legitimate growth — or to monitor only already-rotated logs.
+
+  https://roadmap.sh/projects/file-integrity-checker
